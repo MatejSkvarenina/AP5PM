@@ -1,0 +1,7 @@
+{
+  "name": "pokeapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
